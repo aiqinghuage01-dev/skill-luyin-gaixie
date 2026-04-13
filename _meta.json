@@ -1,0 +1,9 @@
+{
+  "name": "录音文案改写",
+  "version": "2.0.0",
+  "description": "将口述录音转写文本改写为可直接读稿的短视频文案，保留原观点、原口吻和关键经历",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
