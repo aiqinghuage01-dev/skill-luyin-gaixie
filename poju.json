@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 3,
+  "role": "速记员",
+  "avatar": {
+    "style": "lorelei",
+    "seed": "scribe-stenographer"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "粗糙口述录音转精炼可读文稿"
+}
